@@ -15,7 +15,7 @@ const Login = () => {
     setError('')
     try{
       await logIn(email, password)
-      navigate('/')
+      navigate('/netflix')
     } catch(error) {
       console.log(error);
       setError(error.message)
