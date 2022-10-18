@@ -1,0 +1,21 @@
+[debug] [2022-10-03T14:18:27.247Z] ----------------------------------------------------------------------
+[debug] [2022-10-03T14:18:27.249Z] Command:       /usr/local/bin/firebase /Users/yu/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2022-10-03T14:18:27.249Z] CLI Version:   11.13.0
+[debug] [2022-10-03T14:18:27.249Z] Platform:      darwin
+[debug] [2022-10-03T14:18:27.249Z] Node Version:  v16.16.0
+[debug] [2022-10-03T14:18:27.250Z] Time:          Mon Oct 03 2022 23:18:27 GMT+0900 (GMT+09:00)
+[debug] [2022-10-03T14:18:27.251Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-03T14:18:27.261Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-03T14:18:27.262Z] > authorizing via signed-in user (yuujeyuu@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/yu/react/netflix2
+
